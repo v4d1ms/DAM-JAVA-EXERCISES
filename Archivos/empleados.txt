@@ -1,0 +1,2 @@
+10;pedro;01/01/1999;mates;1500,00
+1;vadim;09/07/01;informatica;1200,00
